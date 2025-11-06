@@ -2,7 +2,7 @@
 
 # MAGIC IMPORT
 
-VBA Add-In Macro for Financial Reports excel spreadsheet. Imports manager flash and journal by transaction code reports in .xml format to spreadsheet, selects date row by parsing report name for yyyy/mm/dd, enters data according to transaction code coloumn (sums mc+vs for single column)
+VBA Add-In Macro for opera PMS Financial Reports excel spreadsheet. Imports manager flash and journal by transaction code reports in .xml format to spreadsheet, selects date row by parsing report name for yyyy/mm/dd, enters data according to transaction code coloumn (sums mc+vs for single column)
 
 ---
 

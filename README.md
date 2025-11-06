@@ -11,7 +11,7 @@ VBA Add-In Macro for opera PMS Financial Reports excel spreadsheet. Imports mana
 ### Installable Add-In
 As an Add-in (.xlam)
 
-Download .xlam from this Repository
+Download .xlam from the "Releases" section of this Repository
 
 Distribute the .xlam file to users.
 

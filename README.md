@@ -11,9 +11,9 @@ VBA Add-In Macro for Opera PMS Financial Reports excel spreadsheet. Imports mana
 ### Installable Add-In
 As an Add-in (.xlam)
 
-Download .xlam from the "Releases" section of this Repository
+- Download .xlam from the "Releases" section of this Repository
 
-Distribute the .xlam file to users.
+- Distribute the .xlam file to users.
 
 ---
 
@@ -21,7 +21,7 @@ You may have to "unblock" the .xlam add-in file by right clicking the file in fi
 
 <img src="./unblock.png">
 
-Users install the add-in to Excel Spreadshet (_saved as .xlsm format_) via File > Options > Add-ins > Go... > browse > select downloaded .xlam file
+- Users install the add-in to Excel Spreadshet (_saved as .xlsm format_) via File > Options > Add-ins > Go... > browse > select downloaded .xlam file
 
 In "Developer" tab > "Macro Security", enable all macros & trust access to the VBA object model
 [_To show the Developer tab in Excel, go to File > Options > Customize Ribbon and check the "Developer" box in the right-hand list of main tabs, then click OK_]

@@ -6,11 +6,11 @@ VBA Add-In Macro for Financial Reports excel spreadsheet. Imports manager flash 
 **Installable Add-In**<br>
 As an Add-in (.xlam)<br>
 <br>
-Save your workbook as .xlam (File > Save As > Excel Add-In (*.xlam)).<br>
+Download .xlam from this Repository<br>  
 <br>
 Distribute the .xlam file to users.<br>
 <br>
-Users install the add-in via File > Options > Add-ins > Go... > browse > select downloaded .xlam file<br>
+Users install the add-in to Excel Spreadshet (_saved as .xlsm format_) via File > Options > Add-ins > Go... > browse > select downloaded .xlam file<br>
 <br>
 <br>
 **Naming format for Reports Scheduler**<br>
